@@ -2,6 +2,18 @@
 
 <h2>I'm going to go ahead and keep the Markdown Language details here in case I need them for later</h2>
 _Even though you said we wouldn't be using it for our site this is a pretty good reference I can have for later_
+<br>
+Before that though, I'll write some content I guess...<br>
+
+**Here's some info about me**
+- Class year: Junior 
+- Major: HCI
+- Short term goal: Sleep
+- Long term goal: Domination 
+
+It's interesting that the h1 tag seems to work but not # the pound symbol even if i put it #right next to the words. I'll have to play around with it. 
+
+###will this work? It Works in the preview in webstorm I'll see...
 
 
 
