@@ -1,6 +1,6 @@
-#Annemarie Fulcer's Practice Site IS 117
+<h1>Annemarie Fulcer's Practice Site IS 117</h1>
 
-##I'm going to go ahead and keep the Markdown Language details here in case I need them for later
+<h2>I'm going to go ahead and keep the Markdown Language details here in case I need them for later</h2>
 _Even though you said we wouldn't be using it for our site this is a pretty good reference I can have for later_
 
 
