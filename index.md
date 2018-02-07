@@ -11,13 +11,12 @@ Before that though, I'll write some content I guess...<br>
 - Short term goal: Sleep
 - Long term goal: Domination 
 
-It's interesting that the h1 tag seems to work but not # the pound symbol even if i put it #right next to the words. I'll have to play around with it. 
+Here's my LinkedIn because I'm all about that networking -It's probably not that impressive but I'm working on it 
+...Actually! Right now I'm working on a project with my friend from Seattle. Honestly, I don't have a full picture of his vision but he's working on the hardware and backend coding and I'm working on front end UX and right now I'm trying to figure out a way to dynamically search as the user is typing. 
+It's in Python, which I haven't done _much_ with but CodeAcademy exists for a reason, right? Anyways, here's that <a href="https://www.linkedin.com/in/annemarie-fulcer/">link</a>
 
-###will this work? It Works in the preview in webstorm I'll see...
-
-
-
-
+```
+```
 
 
 You can use the [editor on GitHub](https://github.com/AnnemarieFulcer/practiceSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
