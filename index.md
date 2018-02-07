@@ -1,12 +1,12 @@
-##This is my practice website for IS117
-Annemarie Fulcer
+#Annemarie Fulcer's Practice Site IS 117
+
+##I'm going to go ahead and keep the Markdown Language details here in case I need them for later
+_Even though you said we wouldn't be using it for our site this is a pretty good reference I can have for later_
 
 
 
 
 
-
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AnnemarieFulcer/practiceSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
